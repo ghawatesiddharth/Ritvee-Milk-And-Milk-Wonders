@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297931110485",
+    "project_id": "ritveemilkandmilkwonders",
+    "storage_bucket": "ritveemilkandmilkwonders.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297931110485:android:036f2d91c0c3937149fcdc",
+        "android_client_info": {
+          "package_name": "com.example.ritveemilkandmilkwonders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3txMMbZXgexXb_62DeJ_MSyk8KbfCDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
